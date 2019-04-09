@@ -35,11 +35,11 @@
    color:brown;
 }
 .container ul li a{
-  color:#800080;
+  color:black;
   font-size: 18px;
 }
 .container ul li a:hover{
-  color:grey;
+  color:purple;
 
 }
 
