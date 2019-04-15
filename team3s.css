@@ -86,9 +86,9 @@ a:active{
 
 
 
-@media (min-width: 450px) {
+@media (min-width:400px) {
 	main {
-		width: 450px;
+		width: 400px;
 		margin: auto;
 	}
 
